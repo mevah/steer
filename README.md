@@ -21,4 +21,4 @@ Integration with some APIs were not actually possible to lift the heavy weight f
 We pulled it off, we managed to provide proof of concept that is valuable for the clients.
 
 ##Built With
-java, javascript, node.js, python, torch
+java, javascript, node.js, python, torch (https://github.com/amaiya/ktrain)
