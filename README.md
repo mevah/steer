@@ -4,8 +4,7 @@ or HackZurich2020
 on Devpost: [link](https://devpost.com/software/steer-0rifbw)
 
 <img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/phone.png" width="200">
-<img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/phone2.png" width="200")
-
+<img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/phone2.png" width="200">
 <img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/zoom.png" width="500">
 
 
@@ -14,7 +13,7 @@ on Devpost: [link](https://devpost.com/software/steer-0rifbw)
 [tobi](http://github.com/hexagon6)
 [tony](https://devpost.com/makatony)
 [ivan](https://devpost.com/gigaphone)
-[tijana] (https://devpost.com/t-wekker)
+[tijana](https://devpost.com/t-wekker)
 
 ## Inspiration
 People go off topic during the meetings all the time. Your little story about two kitten in a basket easily wastes tens of working hours per meeting. This needs to end, Karen. We are claiming the time back!
