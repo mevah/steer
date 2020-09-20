@@ -3,8 +3,8 @@ Voice Protocol done right.
 for HackZurich2020
 on Devpost: [link](https://devpost.com/software/steer-0rifbw)
 
-<img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/phone.png" width="200")
-<img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/zoom.png" width="500")
+<img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/phone.png" width="200">
+<img src="https://github.com/mevah/steer/blob/master/Invision_Mockups/zoom.png" width="500">
 
 
 ## Team Members
