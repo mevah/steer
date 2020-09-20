@@ -1,0 +1,12 @@
+{
+  "name": "dubious-robots",
+  "displayName": "dubious-robots",
+  "expo": {
+    "name": "dubious-robots",
+    "slug": "dubious-robots",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
