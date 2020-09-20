@@ -1,5 +1,18 @@
 # steer
 Voice Protocol done right.
+for HackZurich2020
+on Devpost: [link](https://devpost.com/software/steer-0rifbw)
+
+![app](https://github.com/mevah/steer/blob/master/Invision_Mockups/phone.png)
+![add-on](https://github.com/mevah/steer/blob/master/Invision_Mockups/zoom.png)
+
+
+## Team Members
+[meva](http://github.com/mevah)
+[tobi](http://github.com/hexagon6)
+[tony](https://devpost.com/makatony)
+[ivan](https://devpost.com/gigaphone)
+[tijana] (https://devpost.com/t-wekker)
 
 ## Inspiration
 People go off topic during the meetings all the time. Your little story about two kitten in a basket easily wastes tens of working hours per meeting. This needs to end, Karen. We are claiming the time back!
@@ -20,5 +33,7 @@ Integration with some APIs were not actually possible to lift the heavy weight f
 ## Accomplishments that we're proud of
 We pulled it off, we managed to provide proof of concept that is valuable for the clients.
 
-##Built With
+## Built With
 java, javascript, node.js, python, torch (https://github.com/amaiya/ktrain)
+
+
